@@ -36,5 +36,4 @@ public class MovieInfoController {
 		
 		return new Movie(movieId,movieSummary.getTitle(),movieSummary.getOverview());
 	}
-
 } 
